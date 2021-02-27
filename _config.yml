@@ -1,18 +1,40 @@
 # Site settings
-title: 三叶草国际语
-SEOTitle: 三叶草国际语 - 让沟通更容易
+title: Aerial Root
+SEOTitle: Aerial Root
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
-url: "https://klovien.github.io"          # your host, for absolute URL
+email: qishenggenn@gmail.com
+description: "好吧，这里是互联网的角落，你正在访问我的个人博客，正如偶然翻开了你同桌的笔记本。
+
+
+
+你或许会不屑一顾，放回原处，因为它凌乱且平凡。
+
+你或许会兴致勃勃，不停翻看，因为它鲜活且真实。
+
+
+
+你或许会大受启发，因为这毕竟是我的学习记录，里面每一个字都是思想的脚印。
+
+你或许会误入歧途，因为这毕竟是我的个人记录，里面每一个字都可能是错的。
+
+
+
+纠错、批评、责备、赞美、鼓励。相遇不易，莫要吝啬。
+
+与你的交流与讨论，正是我在此处一直等待的。
+
+
+
+随时改动，暂时会有排版混乱、语意不通、中英文夹杂等情况，但最终会趋于严谨、通俗。"
+keyword: "Blog"
+url: "https://aerialroot.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/aerialroot/aerialroot.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you're going to be!"
-sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-someone.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
